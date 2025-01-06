@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1676112988406,
+  "timestamp": 1736173112721,
   "index": "/vb_positions/index.html",
   "assetGroups": [
     {
@@ -64,13 +64,13 @@
   "hashTable": {
     "/vb_positions/526.fbda611a44c0342a.js": "1db90aeaa0b5538d56cbacb2bffa546c08b7d87b",
     "/vb_positions/701.a0a079f89b13e1b8.js": "c3013c45345f024c6f9747d0d8a00798303f9fc1",
-    "/vb_positions/assets/i18n/en.json": "aa7588632c094f25f372dee36dfbbe37f7bd3163",
+    "/vb_positions/assets/i18n/en.json": "87119d782a3d9c15db366e89b8d44792343b1bd5",
     "/vb_positions/assets/icons/icon-192x192.png": "23ac8f42257e31342dfc42d900f32d3e0d67efea",
     "/vb_positions/assets/icons/icon-512x512.png": "c0a7de798f694041f7a73154f7c8e7067ac95e93",
     "/vb_positions/favicon.ico": "e3de3346f0816db62b6800c9198094f422c9bb59",
     "/vb_positions/index.html": "403c562848f2c50dbdf60903ffb4ecc5bf1bafaf",
     "/vb_positions/main.4fd9c418e51e2c8a.js": "7f4894cd627d56e82190c7c982e384560d67a05a",
-    "/vb_positions/manifest.webmanifest": "71a06ca7e1d60ede0c9c7215bd6645e00e7c2121",
+    "/vb_positions/manifest.webmanifest": "eb6f4a5cfdf50341f0dcf659a2b6bb19a79a8fb8",
     "/vb_positions/material-icons-outlined.78a93b2079680a08.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
     "/vb_positions/material-icons-outlined.f86cb7b0aa53f0fe.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
     "/vb_positions/material-icons-round.92dc7ca2f4c591e7.woff": "c41bfee3f01218e18d53f4f4cac00f385ac9fbb1",
