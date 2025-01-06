@@ -1,11 +1,17 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyC1Zu3HqXxHs4ILbi00RHQs-J42TlHjxL8",
-    authDomain: "vbpositions.firebaseapp.com",
-    projectId: "vbpositions",
-    storageBucket: "vbpositions.appspot.com",
-    messagingSenderId: "758655148145",
-    appId: "1:758655148145:web:5c1077eedb8ce640aabbd0",
+    apiKey: "AIzaSyDzjCcOi0pqSP8CekWy-qs1RvwIlJawfpY",
+
+    authDomain: "volleyball-positionen.firebaseapp.com",
+
+    projectId: "volleyball-positionen",
+
+    storageBucket: "volleyball-positionen.firebasestorage.app",
+
+    messagingSenderId: "367842503914",
+
+    appId: "1:367842503914:web:ad3b8612de0a5aea51bb93"
+
   },
 };
